@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/insight/__init__.py
+src/insight/cli.py
+src/insight.egg-info/PKG-INFO
+src/insight.egg-info/SOURCES.txt
+src/insight.egg-info/dependency_links.txt
+src/insight.egg-info/entry_points.txt
+src/insight.egg-info/requires.txt
+src/insight.egg-info/top_level.txt
+tests/test_smoke.py
