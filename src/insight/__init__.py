@@ -1,0 +1,1 @@
+"""inSight: offline semantic search over a local photo library."""

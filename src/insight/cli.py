@@ -1,3 +1,5 @@
+"""Command-line entry point for the insight tool."""
+
 def main():
     print("Hello, World!")
 
